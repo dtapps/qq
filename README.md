@@ -1,8 +1,8 @@
 <h1>
-<a href="https://www.dtapp.net/">Golang qq</a>
+<a href="https://www.dtapp.net/">Golang</a>
 </h1>
 
-📦 Golang qq
+📦 Golang 腾讯地图
 
 [comment]: <> (go)
 [![godoc](https://pkg.go.dev/badge/go.dtapp.net/qq?status.svg)](https://pkg.go.dev/go.dtapp.net/qq)
@@ -13,5 +13,5 @@
 #### 安装
 
 ```shell
-go get -v -u go.dtapp.net/qq@v1.0.0
+go get -v -u go.dtapp.net/qq@v1.0.1
 ```

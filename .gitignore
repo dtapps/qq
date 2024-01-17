@@ -6,5 +6,5 @@
 *.log
 gomod.sh
 *_test.go
-mod.sh
+go_mod.sh
 /vendor/
