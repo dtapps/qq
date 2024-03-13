@@ -8,7 +8,6 @@ require (
 	go.dtapp.net/gojson v1.0.4
 	go.dtapp.net/golog v1.0.120
 	go.dtapp.net/gorequest v1.0.46
-	go.dtapp.net/gotrace_id v1.0.8
 )
 
 require (
@@ -53,6 +52,7 @@ require (
 	go.dtapp.net/gorandom v1.0.2 // indirect
 	go.dtapp.net/gostring v1.0.13 // indirect
 	go.dtapp.net/gotime v1.0.6 // indirect
+	go.dtapp.net/gotrace_id v1.0.8 // indirect
 	go.dtapp.net/gourl v1.0.0 // indirect
 	go.mongodb.org/mongo-driver v1.13.1 // indirect
 	golang.org/x/arch v0.7.0 // indirect
@@ -61,7 +61,7 @@ require (
 	golang.org/x/sync v0.6.0 // indirect
 	golang.org/x/sys v0.16.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
-	google.golang.org/protobuf v1.32.0 // indirect
+	google.golang.org/protobuf v1.33.0 // indirect
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	gorm.io/gorm v1.25.5 // indirect
