@@ -13,5 +13,5 @@
 #### 安装
 
 ```shell
-go get -v -u go.dtapp.net/qq@v1.0.1
+go get -v -u go.dtapp.net/qq@v1.0.2
 ```
